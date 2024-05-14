@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I am going to build a simple recipe website. This is a test of my skills of what I have learned so far, completing this project will approve of my knowledge of basic html.
