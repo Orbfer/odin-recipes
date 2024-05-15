@@ -1,0 +1,13 @@
+* {
+    font-family: "Courier New", monospace;
+}
+.heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    background-color: chocolate;
+}
+.links {
+    font-size: 32px;
+    background-color: aqua;
+}
